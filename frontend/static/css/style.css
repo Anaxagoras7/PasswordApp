@@ -1,0 +1,37 @@
+.bg-nav{
+    background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mt-100{
+    margin-top:150px;
+}
+
+.mt-50{
+    margin-top:20px;
+}
+
+.lala{
+    margin-left : 5px;
+    margin-right : 5px;
+}
+
+.card{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+}
+
+.bodybgg{
+    background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); 
+}
+
+.bodybg {
+    /* fallback for old browsers */
+    background: #161e31;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #070f1f, #2a3b64);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #050c1a, #293a63); 
+  }
