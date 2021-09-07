@@ -1,0 +1,2 @@
+- This folder is used to store the user files in encrypted format and the corresponding key files.
+- The files store the user services along with their corresponding passwords.
